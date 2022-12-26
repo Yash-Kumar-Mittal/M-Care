@@ -1,3 +1,45 @@
 <resources>
-    <string name="app_name">M-Care</string>
+    <string name="app_name">Dques</string>
+    <string name="q1">In the past 4 weeks, about how often did you feel tired out for no good reason?</string>
+    <string name="q2">In the past 4 weeks, about how often did you feel nervous?</string>
+    <string name="q3">In the past 4 weeks, about how often did you feel nervous that nothing could calm you down?</string>
+    <string name="q4">In the past 4 weeks, about how often did you feel hopeless?</string>
+    <string name="q5">In the past 4 weeks, about how often did you feel restless or fidgety?</string>
+    <string name="q6">In the past 4 weeks, about how often did you feel so restless you could not sit still?</string>
+    <string name="q7">In the past 4 weeks, about how often did you feel depressed?</string>
+    <string name="q8">In the past 4 weeks, about how often did you feel that everything was an effort?</string>
+    <string name="q9">In the past 4 weeks, about how often did you feel so sad that nothing could cheer you up?</string>
+    <string name="q10">In the past 4 weeks, about how often did you feel worthless?</string>
+
+    <string name="q11">Do you worry, anticipate of the worst, have fearful anticipation or have irritability?</string>
+    <string name="q12"> Do you experience feelings of tension, fatigability, startle response, moved to tears
+        easily, trembling, feelings of restlessness or inability to relax?</string>
+    <string name="q13">Are you feared Of dark, of strangers, of being left alone, of animals, of traffic or of
+        crowds?</string>
+    <string name="q14">Do you experience difficulty in falling asleep, broken sleep, unsatisfying sleep and fatigue
+        on waking, dreams, nightmares or night terrors?</string>
+    <string name="q15">Do you experience difficulty in concentration or poor memory?</string>
+    <string name="q16">Do you experience loss of interest, lack of pleasure in hobbies, depression, early waking or
+        diurnal swing?</string>
+    <string name="q17">Do you experience pains and aches, twitching, stiffness, myoclonic jerks, grinding of
+        teeth, unsteady voice or increased muscular tone?</string>
+    <string name="q18">Do you experience tinnitus, blurring of vision, hot and cold flushes, feelings of weakness or
+        pricking sensation ?</string>
+    <string name="q19">Do you experience tachycardia, palpitations, pain in chest, throbbing of vessels, fainting
+        feelings or missing beat ?</string>
+    <string name="q20">Do you experience pressure or constriction in chest, choking feelings, sighing or dyspnea ?</string>
+    <string name="q21">Do you experience difficulty in swallowing, wind abdominal pain, burning sensations, abdominal fullness, nausea, vomiting, borborygmi, looseness of
+        bowels, loss of weight or constipation ?</string>
+    <string name="q22">Do you experience frequency of micturition, urgency of micturition, amenorrhea,
+        menorrhagia, development of frigidity, premature ejaculation, loss of libido or impotence ?</string>
+    <string name="q23">Do you experience dry mouth, flushing, pallor, tendency to sweat, giddiness, tension
+        headache or raising of hair ?</string>
+    <string name="q24">Do you experience fidgeting, restlessness or pacing, tremor of hands, furrowed brow,
+        strained face, sighing or rapid respiration, facial pallor, swallowing etc. ?</string>
+    <string name="textview">TextView</string>
+    <string name="depression">Depression</string>
+    <string name="anxiety">Anxiety</string>
+
 </resources>
+
+
